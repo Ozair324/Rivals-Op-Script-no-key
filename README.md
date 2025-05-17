@@ -92,7 +92,7 @@ Start dominating Rivals matches in less than 2 minutes. Here's how:
 3. **Paste this script into your executor:**
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ozair324/Rivals-Op-Script-no-key/refs/heads/main/Rivals%20Op%20Script%20no%20key.lua"))()
 ```
 
 4. **Execute the script**
