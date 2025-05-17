@@ -119,8 +119,8 @@ end
 -- Run the script after key verification
 local function runMainScript()
     -- Your original script logic here
-    local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/EnesXVC/scripts/main/XVC-Hub/Breeding-ranch"))()
-
+    local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))()
+    
     for PlaceID, Execute in pairs(Games) do
         if PlaceID == game.PlaceId then
             loadstring(game:HttpGet(Execute))()
