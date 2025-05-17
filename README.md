@@ -2,7 +2,7 @@
 
 Get ready to **dominate Rivals** like never before! The **Rivals OP Script** is your elite, **no-key combat enhancer**, crafted for precision and power. This sleek tool brings advanced **aimbot**, **silent aim**, and **ESP** directly to your gameplay, helping you crush opponents and climb the ranks with ease. Unlock maximum impact with zero restrictions and no key hassle!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Rivals-Op-Script-no-key/blob/main/Rivals%20OP%20Script.png)
 
 ---
 
